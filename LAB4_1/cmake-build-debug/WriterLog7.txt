@@ -1,0 +1,18 @@
+taking unused semaphores for page 6 at 51225687
+taking mutex for page 6 at 51228828
+starting write at 51228828
+stop write at 51229390
+Getting back mutex at 51229390
+Getting back used semaphore at 51229390
+taking unused semaphores for page 14 at 51229390
+taking mutex for page 14 at 51239078
+starting write at 51239078
+stop write at 51240046
+Getting back mutex at 51240046
+Getting back used semaphore at 51240046
+taking unused semaphores for page 6 at 51240593
+taking mutex for page 6 at 51254015
+starting write at 51254015
+stop write at 51254843
+Getting back mutex at 51254843
+Getting back used semaphore at 51254843
