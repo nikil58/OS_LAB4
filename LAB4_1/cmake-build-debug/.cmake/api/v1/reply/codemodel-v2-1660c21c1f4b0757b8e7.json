@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Programming/C++/5 Semestr/LAB4_1/cmake-build-debug",
-		"source" : "D:/Programming/C++/5 Semestr/LAB4_1"
+		"build" : "D:/Programming/C++/5 Semestr/LAB4/LAB4_1/cmake-build-debug",
+		"source" : "D:/Programming/C++/5 Semestr/LAB4/LAB4_1"
 	},
 	"version" : 
 	{

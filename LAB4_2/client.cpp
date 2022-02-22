@@ -31,6 +31,7 @@ void ui () {
                     overlp.hEvent = e;
                     char msg[MAX_PATH];
                     conn = ReadFileEx(namedPipe, msg, 512, &overlp, Callback);
+                    SleepEx(INFINITE, true);
                     if (conn)
                         cout << msg << endl;
                     else
